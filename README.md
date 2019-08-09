@@ -5,7 +5,7 @@ Please visit [bgg](https://boardgamegeek.com/thread/2189979/redjaks-automated-im
 
 What you need:
 - A working installation of python (version 3. version 2 might work as well.)
-- A list of the RAIV cards as single jpg files as downloaded on the drive. More precisely download the folder 'Cards - Single JPGs', put it at the root of the project and rename it 'cards'.
+- A list of the RAIV cards as single jpg files as downloaded on the drive. More precisely download the folder ['Cards - Single JPGs'](https://drive.google.com/open?id=1Q6hTQ1f2EM35RcK688lSxHX_7EgofcXF), put it at the root of the project and rename it 'cards'.
 
 Instructions:
 - cd into the root dir and run `python script.sh'. Choose option 1. It'll create a 'campaign' dir and put every event card needed for a campaign into the folder 'event_deck'.
