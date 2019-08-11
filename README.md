@@ -8,7 +8,7 @@ What you need:
 - A list of the RAIV cards as single jpg files as downloaded on the drive. More precisely download the folder ['Cards - Single JPGs'](https://drive.google.com/open?id=1Q6hTQ1f2EM35RcK688lSxHX_7EgofcXF), put it at the root of the project and rename it 'cards'.
 
 Instructions:
-- cd into the root dir and run `python script.sh'. Choose option 1. It'll create a 'campaign' dir and put every event card needed for a campaign into the folder 'event_deck'.
+- cd into the root dir and run `python script.sh`. Choose option 1. It'll create a 'campaign' dir and put every event card needed for a campaign into the folder 'event_deck'.
 - After every mission run the script again and choose option 2 or 3 depending on a rebel win or loss.
 - While playing, draw event card from the 'event_deck' folder, they are already shuffled.
 - Enjoy!
